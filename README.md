@@ -12,10 +12,14 @@
 
 Este repositório tem como intuito armazenar atividades de Lógica de Programação com a linguagem Pascal. O único intuito deste repositório é o estudo e a consulta do conteúdo.
 
-<div align = "center">
- 
 ---
+## :memo: Licença
 
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+<div align = "center">
+    
 Feito com ❤️ por [Anderson](https://twitter.com/andersonbishop_) :wave: [Entre em contato!](https://www.linkedin.com/in/andersonsbispo/)
 
 </div>
